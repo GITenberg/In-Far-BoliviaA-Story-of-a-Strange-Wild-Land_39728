@@ -1,0 +1,39 @@
+_repo: In-Far-BoliviaA-Story-of-a-Strange-Wild-Land_39728
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finnemore, Joseph
+    alias: Finnemore, J. (Joseph)
+    birthdate: 1860
+    deathdate: 1939
+    gutenberg_agent_id: '31275'
+    url: http://www.gutenberg.org/2009/agents/31275
+covers:
+- cover_type: archival
+  image_path: 39728-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2012-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bolivia -- Juvenile fiction'
+- !lcsh 'Cannibalism -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+title: 'In Far Bolivia: A Story of a Strange Wild Land'
+url: http://www.gutenberg.org/ebooks/39728
